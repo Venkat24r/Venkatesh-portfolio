@@ -1,0 +1,15 @@
+*  {
+    font-family: "Chakra Petch", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+.banner{
+    background-image: url(OIP\ \(1\).jpg);
+    background-size: 1200px;
+    background-repeat: no-repeat;
+    padding: 100px 10px;
+
+}
+.skills-padding{
+  padding: 70px 0;
+}
